@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xop:home|Door43 (xop)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xop|d43-xop repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xop/archive/master.zip|d43-xop.zip]]
+
+**Recent Changes**
+{{changes>ns = xop}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xop|Ethnologue data]]
+
